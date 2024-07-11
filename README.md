@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1703/karpenkoilia170300054/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming.jpg)
 <h1 align="center">Hi 👋, I'm Nirman Raj</h1>
 <h3 align="center">Innovating Tomorrow's Digital Solutions Today</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmanraj0512&label=Profile%20views&color=0e75b6&style=flat" alt="nirmanraj0512" /> </p>
 
